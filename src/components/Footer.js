@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
 	return (
 		<div>
-			{/* Currently empty footer, but I checked it works */}
+			{/* Empty, but it's there! */}
 		</div>
 	)
 }
